@@ -1,0 +1,5 @@
+
+1.png: Click on input to go to the next step of the automation
+2.png: Click on menu
+3.png: Click here to start
+1-Click.png: Click again to confirm
